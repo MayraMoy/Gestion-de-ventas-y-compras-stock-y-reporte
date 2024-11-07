@@ -16,7 +16,7 @@ El proyecto se llevará a cabo en modo consola, implementando una arquitectura b
 <ul>
   <li>Moyano Mayra</li>
   <li>Cornejo Lucia</li>
-  <li></li>
+  <li>Moreno Luciana</li>
 </ul>
 
 <a target="_blank" href="https://chatgpt.com/share/66ed98e8-3624-8000-980e-a4a7b2100de9">Historias de Usuario</a>
